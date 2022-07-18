@@ -1,13 +1,13 @@
 div{
     background-color: red;
     text-align: center;
-    text-decoration-color: white;
-    text-emphasis: bold;
+    color: white;
+    font-weight: bold;
     font-size: 32px;
 }
 
 p{
     background-color: green;
     font-size: 18px;
-    text-decoration-color: white;
+    color: white;
 }
